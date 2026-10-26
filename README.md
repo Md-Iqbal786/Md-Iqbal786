@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Md-Iqbal786
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning DSA in java language
+- 🌱 I’m currently learning DSA in cpp language
 - 💞️ I’m looking to collaborate with me
 - 📫 How to reach me mriqbal104786@gmail.com
 
